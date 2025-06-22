@@ -159,8 +159,8 @@ h2 {
 .conteudo3 {
   display: flex;
   font-size: 30px;
-  background-color: #017143;
-  border: 2px solid #017143;
+  background-color: #ebe7e7;
+  border: 2px solid #1a1d39;
   border-radius: 5px;
   padding: 20px;
   margin: 200px auto;
@@ -181,8 +181,8 @@ h3 {
 .conteudo-campo {
   display: inline-flexbox;
   font-size: 30px;
-  background-color: #017143;
-  border: 2px solid #017143;
+  background-color: #ebe7e7;
+  border: 2px solid #1a1d39;
   border-radius: 10px;
   padding: 20px;
   margin: 200px auto;
